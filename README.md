@@ -1,5 +1,10 @@
 # How to Make a Supermarket Product Commercial With AI
 
+![Supermarket Ad demo](./media/supermarket-ad-poster.jpg)
+
+[Watch demo MP4](https://data.pixwit.ai/video-effects/demos/supermarket-ad.mp4)
+
+
 <video controls playsinline src="https://data.pixwit.ai/video-effects/demos/supermarket-ad.mp4"></video>
 
 [![Watch supermarket-ad demo](https://data.pixwit.ai/video-effects/demos/supermarket-ad.mp4)](https://data.pixwit.ai/video-effects/demos/supermarket-ad.mp4)
